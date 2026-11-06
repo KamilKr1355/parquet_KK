@@ -1,0 +1,9 @@
+# Wirtualne środowisko
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Duży plik generowany przez src/generuj_dane.py (94 MB, odtwarzalny)
+data/zamowienia_1mln.csv
